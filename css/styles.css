@@ -222,19 +222,19 @@ img {
 /* =================section our-benef end=======================*/
 
 /* =================section our-team =======================*/
-.sprite-icons-3 {
+.sprite-icons-section {
   /*ul class*/
   display: flex;
   justify-content: center;
   gap: 24px;
 }
-.sprite-3 {
+.sprite-sec {
   /*li class*/
   width: 40px;
   height: 40px;
 }
 
-.spr-sec-3 {
+.spr-sec-add {
   /*a class*/
   display: flex;
   width: 100%;
@@ -246,12 +246,12 @@ img {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.spr-sec-3:hover,
-.spr-sec-3:focus {
+.spr-sec-add:hover,
+.spr-sec-add:focus {
   background-color: #404bbf;
 }
 
-.svg-class-3 {
+.svg-class-s {
   /*svg class*/
   fill: #f4f4fd;
 }
